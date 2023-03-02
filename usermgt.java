@@ -5,3 +5,5 @@ Abey
 Vitalis
 Richard
 Cynthia
+Eric
+Bate
